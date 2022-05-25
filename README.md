@@ -7,9 +7,9 @@ The purpose of this task is developing a web-based machine learning system for s
 # 1-HTML Page
 ![HTML](https://user-images.githubusercontent.com/105516320/169857812-e2e78f18-ee8d-4005-9dfa-a06db0a46406.png)
 
-# 2-Task files in VS code
+<!-- # 2-Task files in VS code
 
-![files](https://user-images.githubusercontent.com/105516320/169858433-b769af24-271e-435f-82cd-febfe426e426.png)
+![files](https://user-images.githubusercontent.com/105516320/169858433-b769af24-271e-435f-82cd-febfe426e426.png) -->
 
 # 3- OutPut data Text and Label
 
