@@ -19,4 +19,11 @@ The purpose of this task is developing a web-based machine learning system for s
 ![test](https://user-images.githubusercontent.com/105516320/169859227-f77d46c8-b46f-438b-a6c0-df53fe900acb.png)
 
 # Prepared By:
-TahaniAloatibi
+Tahani Alotaibi
+tikalotaibi61@sm.imamu.edu.sa
+Layan abdullah Alshanfari 
+lamalshanfari@sm.imamu.edu.sa
+Ruba Saleh
+Rsaalrashed@sm.imamu.edu.sa
+Amwaj Almutairi
+amzalmutari@sm.imamu.edu.sa
